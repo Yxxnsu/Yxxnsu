@@ -29,5 +29,3 @@
 <p align="center">
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=yxxnsu&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs&locale=kr" alt="Github stats" />
 </p>
-
-**Yxxnsu/Yxxnsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
