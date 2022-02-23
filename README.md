@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeonsuIm&fontSize=70&animation=twinkling)
 
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  <a href="https://yxxnsu.tistory.com/"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Blogger&logoColor=white" /></a>&nbsp
+  <a href="mailto:yxxnsu0121@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp
+</p>
+
 <p align="center">🇰🇷 🇫🇷 🇬🇧</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
